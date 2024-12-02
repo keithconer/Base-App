@@ -1,4 +1,4 @@
-MyEmptyProject
+BaseApp
 This is a basic React Native project created using Expo CLI. The purpose of this project is to provide a clean slate to get started with React Native development using Expo.
 
 Prerequisites
